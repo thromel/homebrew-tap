@@ -5,8 +5,8 @@
 class Ctxpack < Formula
   desc "Local, read-only context compiler for AI coding agents"
   homepage "https://github.com/thromel/ctxpack"
-  url "https://github.com/thromel/ctxpack/releases/download/v1.1.5/ctxpack-v1.1.5-aarch64-apple-darwin.tar.gz"
-  sha256 "0ca4ce00012a767c5a400e79b9c81471398d5bd94c2cfccb2b8264e8f74f3d9c"
+  url "https://github.com/thromel/ctxpack/releases/download/v1.1.6/ctxpack-v1.1.6-aarch64-apple-darwin.tar.gz"
+  sha256 "7805f240956a2d7fdb3f26d04d8858692526242c597f75748421964fd9600b84"
   license "MIT"
 
   depends_on arch: :arm64
