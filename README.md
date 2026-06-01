@@ -13,8 +13,8 @@ ctxhelm --version
 ## Current Formula
 
 - Formula: `Formula/ctxhelm.rb`
-- Version: `1.1.8`
-- Release: `https://github.com/thromel/ctxhelm/releases/tag/v1.1.8`
+- Version: `1.1.9`
+- Release: `https://github.com/thromel/ctxhelm/releases/tag/v1.1.9`
 - Platform: Apple Silicon macOS archive
 
 The formula installs the prebuilt public archive and runs `ctxhelm --version`
