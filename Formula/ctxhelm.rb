@@ -5,8 +5,8 @@
 class Ctxhelm < Formula
   desc "Local, read-only context compiler for AI coding agents"
   homepage "https://github.com/thromel/ctxhelm"
-  url "https://github.com/thromel/ctxhelm/releases/download/v2.4.2/ctxhelm-v2.4.2-aarch64-apple-darwin.tar.gz"
-  sha256 "bfdf21ce58e35ab68ea53e36a69f0f3d7c6bf20bfa07e2af3de4cf73d99636ed"
+  url "https://github.com/thromel/ctxhelm/releases/download/v2.4.3/ctxhelm-v2.4.3-aarch64-apple-darwin.tar.gz"
+  sha256 "be2ccef93eab98c4aa831437c1dc5a0f0ee9b74306c0f941da59baab13dcd3a8"
   license "MIT"
 
   depends_on arch: :arm64
